@@ -255,7 +255,6 @@ footer #redes-s .linkedin {
 
 footer #redes-s .twitter {
     background: url(../imagenes/twitter.png);
-    margin-bottom: 15px;
 }
 
 footer #redes-s .facebook {
@@ -264,6 +263,7 @@ footer #redes-s .facebook {
 
 footer #redes-s .youtube {
     background: url(../imagenes/youtube.png);
+    margin-bottom: 15px;
 }
 
 footer #redes-s > div:hover {
